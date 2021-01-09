@@ -1,5 +1,4 @@
 // Set up code to connect Node to MySQL
-// require('dotenv').config();
 const mysql = require("mysql");
 let connection;
 
