@@ -58,6 +58,12 @@ h3 {
   border: none;
 }
 
+@media screen and (min-width: 768px) {
+  h1 {
+    font-size: 57px;
+  }
+}
+
 /* List of Burgers:  Ready to Flip & Devoured */
 h4 {
   background: rgba(216, 75, 162);
